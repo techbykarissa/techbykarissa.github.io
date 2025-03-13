@@ -1,0 +1,14 @@
+h2{
+    font-family: "Shadows Into Light Two", serif;
+    text-align: center;
+}
+header{
+    text-align: center;
+    background: url("");
+    background-size: cover;
+    padding: 20px, 0px, 0px, 0px
+}
+li{
+    padding: 0px, 10px, 0px, 10px;
+    display: inline;
+}
