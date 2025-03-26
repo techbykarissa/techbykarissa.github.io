@@ -36,3 +36,6 @@ a{
 .top{
     text-shadow: -3px -3px 0 #ffffff, 3px -3px 0 #ffffff, -3px 3px 0 #ffffff, 3px 3px 0 #ffffff;
 }
+body{
+    text-align: center;
+}
